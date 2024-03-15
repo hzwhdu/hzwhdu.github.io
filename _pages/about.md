@@ -70,45 +70,45 @@ Xu Yang, **Hao Wang**, De Xie, Cheng Deng, Dacheng Tao
 
 - [Domain-Smoothing Network for Zero-Shot Sketch-Based Image Retrieval](https://arxiv.org/abs/2106.11841) [\[code\]](https://gitee.com/hzw-ai/DSN)
 
-Zhipeng Wang, **Hao Wang**, Jiexi Yan, Aming Wu, Cheng Deng
+  Zhipeng Wang, **Hao Wang**, Jiexi Yan, Aming Wu, Cheng Deng
 
-**IJCAI 2021**
+  **IJCAI 2021**
 
 - [Object and Background Disentanglement for Unsupervised Cross-Domain Person Re-Identification](https://www.sciencedirect.com/science/article/pii/S0925231220306731)
 
-Yuehua Zhu, Cheng Deng, Huanhuan Cao, **Hao Wang**
+  Yuehua Zhu, Cheng Deng, Huanhuan Cao, **Hao Wang**
 
-**Neurocomputing 2020**
+  **Neurocomputing 2020**
 
 - [Progressive Cross-Modal Network for Zero-Shot Sketch-Based Image Retrieval](https://haowang1992.github.io/files/TIP20/TIP20_PCMSN.pdf) [\[code\]](https://gitee.com/hzw-ai/PCMSN)
 
-Cheng Deng, Xinxu Xu, **Hao Wang**, Muli Yang, Dacheng Tao
+  Cheng Deng, Xinxu Xu, **Hao Wang**, Muli Yang, Dacheng Tao
 
-**T-IP 2020**
+  **T-IP 2020**
 
 - [Progressive Domain-Independent Feature Decomposition Network for Zero-Shot Sketch-Based Image Retrieval](http://arxiv.org/pdf/2003.09869.pdf) [\[code\]](https://gitee.com/hzw-ai/PDFD)
 
-Xinxu Xu, Muli Yang, Yanhua Yang, **Hao Wang**
+  Xinxu Xu, Muli Yang, Yanhua Yang, **Hao Wang**
 
-**IJCAI 2020**
+  **IJCAI 2020**
 
 - [Adversarial Fine-Grained Composition Learning for Unseen Attribute-Object Recognition](http://openaccess.thecvf.com/content_ICCV_2019/papers/Wei_Adversarial_Fine-Grained_Composition_Learning_for_Unseen_Attribute-Object_Recognition_ICCV_2019_paper.pdf)
 
-Kun Wei, Muli Yang, **Hao Wang**, Cheng Deng, Xianglong Liu
+  Kun Wei, Muli Yang, **Hao Wang**, Cheng Deng, Xianglong Liu
 
-**ICCV 2019**
+  **ICCV 2019**
 
 - [Semantic Adversarial Network with Multi-scale Pyramid Attention for Video Classification](https://arxiv.org/pdf/1903.02155.pdf)
 
-De Xie, Cheng Deng, **Hao Wang**, Chao Li, Dapeng Tao
+  De Xie, Cheng Deng, **Hao Wang**, Chao Li, Dapeng Tao
 
-**AAAI 2019**
+  **AAAI 2019**
 
 - [Exploring Hybrid Spatio-Temporal Convolutional Networks for Human Action Recognition](https://github.com/hzwhdu/hzwhdu.github.io/tree/main/pdf/HSTCN.pdf)
 
-**Hao Wang**, Yanhua Yang, Erkun Yang, Cheng Deng
+  **Hao Wang**, Yanhua Yang, Erkun Yang, Cheng Deng
 
-**MTAP 2017**
+  **MTAP 2017**
 
 # 🎖 Honors and Awards
 
