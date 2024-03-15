@@ -17,14 +17,15 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am working as a tenure-track associate professor in school of Cyberspace, Hangzhou Dianzi University. I obtained Ph.D degree at Xidian University in 2021, co-supervised by Pro. Wei Liu and Prof. Cheng Deng at Xidian University. Before that I obtained my B.S. degree from Hangzhou Dianzi University in 2015.
+I am working as a tenure-track associate professor in school of Cyberspace, Hangzhou Dianzi University. I obtained Ph.D degree at Xidian University in 2021, co-supervised by Pro. Wei Liu and Prof. Cheng Deng. Before that I obtained my B.S. degree from Hangzhou Dianzi University in 2015.
+
 Lastest Update: 15 Mar, 2024
 
 # 🔥 News
 - *2022.03*: &nbsp;🎉🎉 One paper accepted by TIP 2022.
 - *2021.10*: &nbsp;🎉🎉 One paper accepted by TPAMI 2021. 
 - *2021.04*: &nbsp;🎉🎉 One paper accepted by IJCAI 2021. 
-- *2020.08*: &nbsp;🎉🎉 One paper accepted by TIP. 
+- *2020.08*: &nbsp;🎉🎉 One paper accepted by TIP 2020. 
 - *2020.04*: &nbsp;🎉🎉 One paper accepted by IJCAI 2020.
 
 
@@ -45,16 +46,12 @@ Lastest Update: 15 Mar, 2024
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2015.09 - 2021.06*, school of Electronic Engineering, Xidian University. 
+- *2011.09 - 2015.06*, school of Electronics and Information Engineering, Hangzhou Dianzi University. 
 
 # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# 💻 Work Experiences
+- *2021.07 - 2024.01*, Huawei at Hangzhou, China.
