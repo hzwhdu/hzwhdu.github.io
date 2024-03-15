@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am working as a tenure-track associate professor in school of Cyberspace, Hangzhou Dianzi University. I obtained Ph.D degree at Xidian University in 2021, co-supervised by Pro. Wei Liu and Cheng Deng. Before that I obtained my B.S. degree from Hangzhou Dianzi University in 2015.
+I am working as a tenure-track associate professor in school of Cyberspace, Hangzhou Dianzi University. I obtained Ph.D degree at Xidian University in 2021, co-supervised by Pro. Wei Liu and Cheng Deng. Before that I obtained my B.S. degree from Hangzhou Dianzi University in 2015. I was a senior engineer in Huawei at Hangzhou from Jul. 2021 to Jan. 2024. 
 
 Lastest Update: 15 Mar, 2024
 
