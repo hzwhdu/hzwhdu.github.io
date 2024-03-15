@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am working as a tenure-track associate professor in school of Cyberspace, Hangzhou Dianzi University. I obtained Ph.D degree at Xidian University in 2021, co-supervised by Pro. Wei Liu and Prof. Cheng Deng. Before that I obtained my B.S. degree from Hangzhou Dianzi University in 2015.
+I am working as a tenure-track associate professor in school of Cyberspace, Hangzhou Dianzi University. I obtained Ph.D degree at Xidian University in 2021, co-supervised by Pro. Wei Liu and Cheng Deng. Before that I obtained my B.S. degree from Hangzhou Dianzi University in 2015.
 
 Lastest Update: 15 Mar, 2024
 
@@ -31,14 +31,12 @@ Lastest Update: 15 Mar, 2024
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">T-PAMI 2021</div><img src='images/TCN.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Transferable Coupled Network for Zero-Shot Sketch-Based Image Retrieval](https://github.com/hzwhdu/hzwhdu.github.io/pdf/TCN.pdf)
+[Transferable Coupled Network for Zero-Shot Sketch-Based Image Retrieval](https://github.com/hzwhdu/hzwhdu.github.io/tree/main/pdf/TCN.pdf)
 
 **Hao Wang**, Cheng Deng, Tongliang Liu, Dacheng Tao
-
-- T-PAMI 2021. 
 </div>
 </div>
 
