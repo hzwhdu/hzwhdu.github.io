@@ -22,14 +22,23 @@ I am working as a tenure-track associate professor in school of Cyberspace, Hang
 Lastest Update: 15 Mar, 2024
 
 # 🔥 News
-- *2022.03*: &nbsp;🎉🎉 One paper accepted by TIP 2022.
-- *2021.10*: &nbsp;🎉🎉 One paper accepted by TPAMI 2021. 
+- *2022.03*: &nbsp;🎉🎉 One paper accepted by T-IP 2022.
+- *2021.10*: &nbsp;🎉🎉 One paper accepted by T-PAMI 2021. 
 - *2021.04*: &nbsp;🎉🎉 One paper accepted by IJCAI 2021. 
-- *2020.08*: &nbsp;🎉🎉 One paper accepted by TIP 2020. 
+- *2020.08*: &nbsp;🎉🎉 One paper accepted by T-IP 2020. 
 - *2020.04*: &nbsp;🎉🎉 One paper accepted by IJCAI 2020.
 
 
 # 📝 Publications 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">T-IP 2022</div><img src='images/OATNet.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Object-Agnostic Transformers for Video Referring Segmentation](https://github.com/hzwhdu/hzwhdu.github.io/tree/main/pdf/OATNet.pdf)
+
+Xu Yang, **Hao Wang**, De Xie, Cheng Deng, Dacheng Tao
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">T-PAMI 2021</div><img src='images/TCN.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -37,6 +46,24 @@ Lastest Update: 15 Mar, 2024
 [Transferable Coupled Network for Zero-Shot Sketch-Based Image Retrieval](https://github.com/hzwhdu/hzwhdu.github.io/tree/main/pdf/TCN.pdf)
 
 **Hao Wang**, Cheng Deng, Tongliang Liu, Dacheng Tao
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2020</div><img src='images/CMDyConv.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Context Modulated Dynamic Networks for Actor and Action Video Segmentation From a Sentence](https://github.com/hzwhdu/hzwhdu.github.io/tree/main/pdf/CMDyConv.pdf)
+
+**Hao Wang**, Fan Ma, Cheng Deng, Yi Yang
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2029</div><img src='images/ACGA.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Asymmetric Cross-Guided Attention Network for Actor and Action Video Segmentation From Natural Language Query](https://github.com/hzwhdu/hzwhdu.github.io/tree/main/pdf/ACGA.pdf)
+
+**Hao Wang**, Cheng Deng, Junchi Yan, Dacheng Tao
 </div>
 </div>
 
