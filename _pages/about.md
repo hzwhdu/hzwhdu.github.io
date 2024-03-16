@@ -19,7 +19,7 @@ redirect_from:
 
 I am working as a tenure-track associate professor in school of Cyberspace, Hangzhou Dianzi University. I obtained Ph.D degree at Xidian University in 2021, co-supervised by Pro. Wei Liu and Cheng Deng. Before that I obtained my B.S. degree from Hangzhou Dianzi University in 2015. I was a senior engineer in Huawei at Hangzhou from Jul. 2021 to Jan. 2024.
 
-My research interest includes Multi-modal Foundation Model, Automatic Parallelization, Weakly-supervised Multi-modal Learning. I have published 10+ papers <a href='https://scholar.google.com/citations?user=6zDstlQAAAAJ&hl'><img src=""></a> at the top international AI conferences or journals such as T-PAMI, T-IP, ICCV, AAAI, IJCAI.
+My research interest includes Multi-modal Foundation Model, Automatic Parallelization, Weakly-supervised Multi-modal Learning. I have published 10+ papers <a href='https://scholar.google.com/citations?user=6zDstlQAAAAJ&hl'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fhzwhdu%2Fhzwhdu.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> at the top international AI conferences or journals such as T-PAMI, T-IP, ICCV, AAAI, IJCAI.
 
 Latest Update: 15 Mar, 2024
 
