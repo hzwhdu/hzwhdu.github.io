@@ -38,6 +38,7 @@ author:
   facebook         :
   foursquare       :
   github           : #
+  gitee            : "hzw-ai"
   google_plus      :
   keybase          :
   instagram        :
@@ -57,8 +58,6 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  gitee            : "https://gitee.com/hzw-ai/"
-
 
 # Reading Files
 include:
