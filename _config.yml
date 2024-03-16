@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://gitee.com/hzw-ai/"
+  github           : #
   google_plus      :
   keybase          :
   instagram        :
@@ -57,6 +57,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
+  gitee            : "https://gitee.com/hzw-ai/"
 
 
 # Reading Files
