@@ -60,7 +60,7 @@ Xu Yang, **Hao Wang**, De Xie, Cheng Deng, Dacheng Tao
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2029</div><img src='images/ACGA.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2019</div><img src='images/ACGA.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Asymmetric Cross-Guided Attention Network for Actor and Action Video Segmentation From Natural Language Query](https://github.com/hzwhdu/hzwhdu.github.io/tree/main/pdf/ACGA.pdf) [\[code\]](https://gitee.com/hzw-ai/ACGA)
