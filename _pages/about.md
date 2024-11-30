@@ -21,9 +21,10 @@ I am working as a tenure-track associate professor in school of Cyberspace, Hang
 
 My research interest includes Multi-modal Foundation Model, Automatic Parallelization, Weakly-supervised Multi-modal Learning. I have published 10+ papers <a href='https://scholar.google.com/citations?user=6zDstlQAAAAJ&hl'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fhzwhdu%2Fhzwhdu.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> at the top international AI conferences or journals such as T-PAMI, T-IP, ICCV, AAAI, IJCAI.
 
-Latest Update: 15 Mar, 2024
+Latest Update: 30 Nov, 2024
 
 # 🔥 News
+- *2024.11*: &nbsp;🎉🎉 Two papers accepted by ICAIT 2024 and BIBM 2024.
 - *2022.03*: &nbsp;🎉🎉 One paper accepted by T-IP 2022.
 - *2021.10*: &nbsp;🎉🎉 One paper accepted by T-PAMI 2021. 
 - *2021.04*: &nbsp;🎉🎉 One paper accepted by IJCAI 2021. 
@@ -68,6 +69,20 @@ Xu Yang, **Hao Wang**, De Xie, Cheng Deng, Dacheng Tao
 **Hao Wang**, Cheng Deng, Junchi Yan, Dacheng Tao
 </div>
 </div>
+
+
+- [Rethinking Perturbation-Based Training-Free Method for Deepfake Face Detection]() [\[code\]]()
+
+  Houying Zhou, Yanjun Deng, **Hao Wang**
+
+  **ICAIT 2024**
+
+
+- [Simple yet Effective ECG Identity Authentication with Low EER & without Retraining]() [\[code\]]()
+
+  Mingyu Dong, Zhidong Zhao, Yefei Zhang, Yanjun Deng, **Hao Wang**, Bingxin Ruan
+
+  **BIBM 2024**
 
 
 - [Domain-Smoothing Network for Zero-Shot Sketch-Based Image Retrieval](https://arxiv.org/abs/2106.11841) [\[code\]](https://gitee.com/hzw-ai/DSN)
