@@ -24,6 +24,7 @@ My research interest includes Multi-modal Foundation Model, Automatic Paralleliz
 Latest Update: 30 Nov, 2024
 
 # 🔥 News
+- *2024.12*: &nbsp;🎉🎉 One paper accepted by ICASSP 2025.
 - *2024.11*: &nbsp;🎉🎉 Two papers accepted by ICAIT 2024 and BIBM 2024.
 - *2022.03*: &nbsp;🎉🎉 One paper accepted by T-IP 2022.
 - *2021.10*: &nbsp;🎉🎉 One paper accepted by T-PAMI 2021. 
