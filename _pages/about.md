@@ -35,6 +35,16 @@ Latest Update: 30 Nov, 2024
 
 # 📝 Publications 
 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICASSP 2025</div><img src='images/KGP.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Knowledge-Guided Prompt Learning for Deepfake Facial Image Detection](https://arxiv.org/pdf/2501.00700v2.pdf)
+
+**Hao Wang**, Cheng Deng, Zhidong Zhao
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">T-IP 2022</div><img src='images/OATNet.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -72,14 +82,14 @@ Xu Yang, **Hao Wang**, De Xie, Cheng Deng, Dacheng Tao
 </div>
 
 
-- [Rethinking Perturbation-Based Training-Free Method for Deepfake Face Detection]() [\[code\]]()
+- [Rethinking Perturbation-Based Training-Free Method for Deepfake Face Detection](https://github.com/hzwhdu/hzwhdu.github.io/tree/main/pdf/UPD.pdf) 
 
   Houying Zhou, Yanjun Deng, **Hao Wang**
 
   **ICAIT 2024**
 
 
-- [Simple yet Effective ECG Identity Authentication with Low EER & without Retraining]() [\[code\]]()
+- [Simple yet Effective ECG Identity Authentication with Low EER & without Retraining](https://ieeexplore.ieee.org/document/10822261)
 
   Mingyu Dong, Zhidong Zhao, Yefei Zhang, Yanjun Deng, **Hao Wang**, Bingxin Ruan
 
