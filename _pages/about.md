@@ -24,6 +24,7 @@ My research interest includes Multi-modal Foundation Model, Automatic Paralleliz
 Latest Update: 30 Nov, 2024
 
 # 🔥 News
+- *2025.11*: &nbsp;🎉🎉 One paper accepted by SPL 2025.  
 - *2024.12*: &nbsp;🎉🎉 One paper accepted by ICASSP 2025.
 - *2024.11*: &nbsp;🎉🎉 Two papers accepted by ICAIT 2024 and BIBM 2024.
 - *2022.03*: &nbsp;🎉🎉 One paper accepted by T-IP 2022.
@@ -34,6 +35,15 @@ Latest Update: 30 Nov, 2024
 
 
 # 📝 Publications 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SPL 2025</div><img src='images/ZSIIS.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Zero-Shot Interpretable Image Steganalysis for Invertible Image Hiding](https://ieeexplore.ieee.org/document/11250850)
+
+**Hao Wang**, Yiming Yao, Yaguang Xie, Tong Qiao, Zhidong Zhao
+</div>
+</div>
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICASSP 2025</div><img src='images/KGP.png' alt="sym" width="100%"></div></div>
